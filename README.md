@@ -1,6 +1,7 @@
 # Mamba Transformer
 This repo contains a PyTorch implementation of the Mamba-Transformer model.
-For more Deails see my blog post . 
+
+For more Deails see [my blog post](https://medium.com/gopenai/completing-the-circle-building-a-mambatransformer-from-scratch-f92a02381bc8) . 
 
 
 ## Train Usage
